@@ -1,2 +1,2 @@
 # some_CPlusPlus
-Some projects and homeworks I did in C++
+I created a text editor with an implementation of linked list structure in C++
